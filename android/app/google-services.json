@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "141781245970",
+    "project_id": "inappbot-18f35",
+    "storage_bucket": "inappbot-18f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141781245970:android:16a9fd07fa626b58b078cb",
+        "android_client_info": {
+          "package_name": "bot.inapp.inappbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141781245970-rg543j60v97995cjv48eq07oc7u3c32k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bot.inapp.inappbot",
+            "certificate_hash": "d0f8f3ab5024022c245c0a89c95dcdbb2304d97c"
+          }
+        },
+        {
+          "client_id": "141781245970-kt6mk0el9u4kaeq2g6jh2tk8ofglk8bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6vpCKu-ZRo53Kr0pd5mY7AKE64F91SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141781245970-kt6mk0el9u4kaeq2g6jh2tk8ofglk8bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141781245970-miqt0mlcbinrp07u39r5p7rg50d1i1fu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bot.inapp.inappbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

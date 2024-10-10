@@ -1,0 +1,55 @@
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+final textTranslationsProvider =
+    Provider<Map<String, Map<String, String>>>((ref) {
+  return {
+    'en': {
+      'focusOnYourBusiness': 'Focus on your business',
+      'managedUsers': 'Users managed 24/7',
+      'adminPanel': 'Admin Panel',
+      'variousAvatars': 'Various Avatars',
+      'pdfsWebText': 'PDFs, Web, and Text',
+      'accurateAnswers': 'Accurate Answers',
+      'support247': 'Support 24/7',
+      'instantReplies': 'Instant Replies',
+      'developmentMaintenance': 'Development/Maintenance',
+      'swiftApp': 'Swift App',
+      'kotlinApp': 'Kotlin App',
+      'flutterApp': 'Flutter App',
+      'webApp': 'Web App',
+      'explorePlayground': 'Explore more in the playground',
+    },
+    'es': {
+      'focusOnYourBusiness': 'Enfócate en tu negocio',
+      'managedUsers': 'Usuarios gestionados 24/7',
+      'adminPanel': 'Panel de Administración',
+      'variousAvatars': 'Diversos Avatares',
+      'pdfsWebText': 'PDFs, Web y Texto',
+      'accurateAnswers': 'Respuestas Precisas',
+      'support247': 'Soporte 24/7',
+      'instantReplies': 'Respuestas al Instante',
+      'developmentMaintenance': 'Desarrollo/Mantenimiento',
+      'swiftApp': 'Swift App',
+      'kotlinApp': 'Kotlin App',
+      'flutterApp': 'Flutter App',
+      'webApp': 'Web App',
+      'explorePlayground': 'Explora más en el playground',
+    },
+    'hi': {
+      'focusOnYourBusiness': 'अपने व्यापार पर ध्यान दें',
+      'managedUsers': 'उपयोगकर्ताओं का प्रबंधन 24/7',
+      'adminPanel': 'एडमिन पैनल',
+      'variousAvatars': 'विभिन्न अवतार',
+      'pdfsWebText': 'PDFs, वेब, और पाठ',
+      'accurateAnswers': 'सटीक जवाब',
+      'support247': '24/7 सहायता',
+      'instantReplies': 'तत्काल उत्तर',
+      'developmentMaintenance': 'विकास/रखरखाव',
+      'swiftApp': 'Swift ऐप',
+      'kotlinApp': 'Kotlin ऐप',
+      'flutterApp': 'Flutter ऐप',
+      'webApp': 'Web ऐप',
+      'explorePlayground': 'प्लेग्राउंड में और अधिक तलाशें',
+    },
+  };
+});

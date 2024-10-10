@@ -1,0 +1,3 @@
+APIs configuration
+
+firebase functions:config:set gemini.apikey="YOU_GEMINI_API_KEY" openai.apikey="YOU_OPENAI_API_KEY" pinecone.apikey="YOU_PINECONE_API_KEY"
