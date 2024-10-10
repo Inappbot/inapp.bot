@@ -766,7 +766,9 @@ This way, we ensure that every contribution is rewarded, while encouraging impac
 
 We are proud to have a community of dedicated contributors who are helping to shape the future of InApp.Bot. Join us and be a part of this exciting journey!
 
-[![Contributors](https://contrib.rocks/image?repo=Inappbot/inapp.bot)](https://github.com/Inappbot/inapp.bot/graphs/contributors)
+<a href="https://github.com/Inappbot/inapp.bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Inappbot/inapp.bot" alt="Contributors" />
+</a>
 
 ### How You Can Contribute
 
