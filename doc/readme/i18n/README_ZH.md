@@ -827,7 +827,7 @@ InApp.Bot 起源于我在长时间的编程休息后学习 Flutter 的个人挑�
 <p align="center">
   由 InApp.Bot 团队开发 ❤️
   <br><br>
-  <a href="https://github.com/Inappbot/inapp.bot">
+  <a href="https://github.com/Inappbot/inapp.bot-admin">
     <img src="https://img.shields.io/badge/📌%20Pin-Admin%20Panel-blue?style=for-the-badge&color=blue" alt="Pin Repository">
   </a>
 </p>

@@ -826,7 +826,7 @@ MIT लाइसेंस के तहत वितरित। अधिक �
 <p align="center">
   Inapp.bot टीम द्वारा ❤️ के साथ विकसित किया गया
   <br><br>
-  <a href="https://github.com/Inappbot/inapp.bot">
+  <a href="https://github.com/Inappbot/inapp.bot-admin">
     <img src="https://img.shields.io/badge/📌%20Pin-Admin%20Panel-blue?style=for-the-badge&color=blue" alt="Pin Repository">
   </a>
 </p>

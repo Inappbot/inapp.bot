@@ -829,7 +829,7 @@ Distribuido bajo la licencia MIT. Consulta el archivo LICENSE para más informac
 <p align="center">
   Desarrollado con ❤️ por el equipo de inapp.bot
   <br><br>
-  <a href="https://github.com/Inappbot/inapp.bot">
+  <a href="https://github.com/Inappbot/inapp.bot-admin">
     <img src="https://img.shields.io/badge/📌%20Pin-Panel%20de%20Administración-blue?style=for-the-badge&color=blue" alt="Pin del Repositorio">
   </a>
 </p>
