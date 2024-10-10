@@ -19,7 +19,7 @@ English • [Español](doc/readme/i18n/README_ES.md) • [中文](doc/readme/i18
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Stars">
-  <a href="https://github.com/Inappbot/inapp.bot/blob/main/LICENSE">
+  <a href="https://github.com/Inappbot/inapp.bot/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/github/license/Inappbot/inapp.bot?style=flat&color=696CD0" alt="License">
   </a>
   <a href="https://github.com/Inappbot/inapp.bot/stargazers">
