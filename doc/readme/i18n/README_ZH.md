@@ -814,7 +814,7 @@ InApp.Bot 起源于我在长时间的编程休息后学习 Flutter 的个人挑�
 
 ## 支持
 
-<a href="https://buymeacoffee.com/inappbot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/jesus89x2w" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <a id="license"></a>
 

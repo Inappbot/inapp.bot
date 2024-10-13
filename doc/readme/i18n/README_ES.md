@@ -816,7 +816,7 @@ Construyamos algo increíble—**abierto, escalable y alimentado por la comunida
 
 ## Soporte
 
-<a href="https://buymeacoffee.com/inappbot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Invítame un café" width="150" ></a>
+<a href="https://buymeacoffee.com/jesus89x2w" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Invítame un café" width="150" ></a>
 
 <a id="licencia"></a>
 

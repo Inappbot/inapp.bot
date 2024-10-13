@@ -814,7 +814,7 @@ InApp.Botは、Flutterを学ぶ個人的な挑戦として始まりました。1
 
 ## サポート
 
-<a href="https://buymeacoffee.com/inappbot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/jesus89x2w" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <a id="license"></a>
 
